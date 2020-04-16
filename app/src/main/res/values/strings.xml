@@ -1,0 +1,49 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Baking</string>
+
+    <string name="ingredients">Ingredients</string>
+    <string name="servings"><xliff:g example="8" id="servings">%s</xliff:g> servings</string>
+    <string name="step_id"><xliff:g example="1" id="step_id">%s</xliff:g>.</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Content Descriptions -->
+    <string name="recipe_image_des">Image of recipe</string>
+    <string name="step_image_des">Image of step to take in recipe</string>
+    <string name="separator_image_des">Separator</string>
+
+    <!-- Tools -->
+    <string name="tools_recipe">Nutella Pie</string>
+    <string name="tools_servings">8 servings</string>
+    <string name="tools_quantity">2</string>
+    <string name="tools_measure">CUP</string>
+    <string name="tools_ingredient">Graham Cracker crumbs</string>
+    <string name="tools_ingredients_summary">Graham Cracker crumbs, unsalted butter (melted),
+        granulated sugar, salt, vanilla, Nutella or other chocolate-hazelnut spread, Mascapone
+        Cheese</string>
+    <string name="tools_step_number">1.</string>
+    <string name="tools_step_des">Recipe Introduction</string>
+    <string name="tools_step_des_full">3. Press the cookie crumb mixture into the prepared pie pan and bake for 12 minutes. Let crust cool to room temperature.</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+    <!-- Keys -->
+    <string name="recipe_key">recipe</string>
+    <string name="ingredients_key">ingredients</string>
+
+    <!-- Text for null widget -->
+    <string name="widget_nodata_header">No recipe</string>
+    <string name="widget_nodata_filler">Click on a recipe in the Baking App to display ingredients here.</string>
+
+    <!-- Toast for when selecting a recipe -->
+    <string name="widget_updated">Widget updated with current recipe</string>
+
+    <!-- Mock Recipe -->
+    <string name="mock_recipe">Mock recipe</string>
+    <string name="mock_description_short">Short mock description</string>
+    <string name="mock_description"><xliff:g example="1" id="mock_step_num">%s</xliff:g>. Mock step</string>
+    <string name="mock_measure">CUP</string>
+    <string name="mock_ingredient">Mock ingredient #<xliff:g example="1" id="mock_ingredient_num">%s</xliff:g></string>
+
+</resources>
